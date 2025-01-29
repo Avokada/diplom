@@ -173,7 +173,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Концептуальная - до" id="csulIQJYct608M51LZGP">
-    <mxGraphModel dx="776" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1176" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="mUqrWvGxXhPrgS_QjJu5-0" />
         <mxCell id="mUqrWvGxXhPrgS_QjJu5-1" parent="mUqrWvGxXhPrgS_QjJu5-0" />
@@ -225,8 +225,18 @@
         <mxCell id="mUqrWvGxXhPrgS_QjJu5-17" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Руководитель направления&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;Область исследований&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&amp;nbsp;(неймспейс)&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="mUqrWvGxXhPrgS_QjJu5-1">
           <mxGeometry x="710" y="-210" width="210" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="py8XUZlMlKfdHzIDHzgJ-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mUqrWvGxXhPrgS_QjJu5-1" source="mUqrWvGxXhPrgS_QjJu5-3" target="iwrHe_TyTzLj7PvzGOrH-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="218" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="py8XUZlMlKfdHzIDHzgJ-1" value="Содержатся" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="py8XUZlMlKfdHzIDHzgJ-0">
+          <mxGeometry x="-0.1241" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mUqrWvGxXhPrgS_QjJu5-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;сообщения&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; пользователь&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;заголовок&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;текст сообщения&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="mUqrWvGxXhPrgS_QjJu5-1">
-          <mxGeometry x="257" y="150" width="218" height="135" as="geometry" />
+          <mxGeometry x="260" y="150" width="215" height="135" as="geometry" />
         </mxCell>
         <mxCell id="DiEDAGt0IpYUioAcfsLu-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.794;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="mUqrWvGxXhPrgS_QjJu5-1" source="mUqrWvGxXhPrgS_QjJu5-17" target="mUqrWvGxXhPrgS_QjJu5-11">
           <mxGeometry relative="1" as="geometry">
@@ -254,8 +264,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iwrHe_TyTzLj7PvzGOrH-0" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;сообщения&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; пользователь&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;заголовок&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;текст сообщения&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="mUqrWvGxXhPrgS_QjJu5-1">
-          <mxGeometry x="70" y="132.5" width="218" height="135" as="geometry" />
+        <mxCell id="iwrHe_TyTzLj7PvzGOrH-0" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Локальный архив сотрудника&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;Формат файлов&lt;/p&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="mUqrWvGxXhPrgS_QjJu5-1">
+          <mxGeometry x="-80" y="187.5" width="218" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
